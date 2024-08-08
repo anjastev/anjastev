@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm Anja, a passionate UX/UI designer and a Comput
 
 Feel free to reach out if you want to collaborate or just chat about design and technology!
 
-- **LinkedIn**: [[Your LinkedIn Profile](#)](https://www.linkedin.com/in/anja-stevkovska-590b61292/)
-- **Behance**: [Your Behance Profile](#)https://www.behance.net/anjastevkovska
-- **Email**: [your-email@example.com](stevkovskaanja@gmail.com)
+- **LinkedIn**: https://www.linkedin.com/in/anja-stevkovska-590b61292/
+- **Behance**: https://www.behance.net/anjastevkovska
+- **Email**: stevkovskaanja@gmail.com
 
 Thank you for visiting my profile! 🙌
