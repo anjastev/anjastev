@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Anja, a passionate UX/UI designer and a Comput
 
 ## Skills 💡
 
-- **Design**: Figma, Adobe XD, Sketch
+- **Design**: Figma, Adobe Ilustrator, Adobe Photoshop
 - **Front-End Development**: HTML, CSS, JavaScript
 - **Tools**: Git, GitHub, VS Code
 
