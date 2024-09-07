@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Anja, a passionate UX/UI designer and a Comput
 
 - **Travel Planner - AI Travel Assistant** : https://webdesignproject.vercel.app/
 - **Planner app - Obvrski365** : https://my-planner-app-eight.vercel.app/
-- **Hotel Reservation App - CheckInn** : 
+- **Hotel Reservation App - CheckInn** : https://hotel-reservations-pink.vercel.app/
 
 
 ## Skills 💡
