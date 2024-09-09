@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm Anja, a passionate UX/UI designer and a Comput
 
 - **Design**: Figma, Adobe Ilustrator, Adobe Photoshop
 - **Front-End Development**: HTML, CSS, JavaScript, ReactNative, Tailwind CSS
-- **Back-End Development**: Node.js, C#
+- **Back-End Development**: Node.js, Spring Boot
 - **Tools**: Git, GitHub, VS Code
 
 ## Contact 📬
