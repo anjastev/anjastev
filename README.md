@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm Anja, a passionate UX/UI designer and a Comput
 ## About Me 🌟
 
 - **UX/UI Designer** 🎨: I create user-centric designs with a focus on usability and aesthetics using tools like Figma.
-- **Full Stack Developer (in making)** 💻: I build responsive and interactive web applications.
 - **Student** 📚: I’m currently studying Computer Science, continuously learning and applying new technologies.
 
 ## Projects 🚀
