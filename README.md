@@ -1,6 +1,6 @@
 # Anja's Portfolio 👋
 
-Welcome to my GitHub profile! I'm Anja, a passionate UX/UI designer and a Computer Science student at the Faculty of Computer Science & Engineering in Skopje. Here you'll find a collection of my projects, from innovative UX/UI designs to functional web applications.
+Welcome to my GitHub profile! I'm Anja,  a Computer Science student at the Faculty of Computer Science & Engineering in Skopje. Here you'll find a collection of my projects, from innovative UX/UI designs to functional web applications.
 
 ## About Me 🌟
 
@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm Anja, a passionate UX/UI designer and a Comput
 ## Skills 💡
 
 - **Design**: Figma, Adobe Ilustrator, Adobe Photoshop
-- **Front-End Development**: HTML, CSS, JavaScript, ReactNative/React, Tailwind CSS
-- **Back-End Development**: Node.js, Php
+- **Front-End Development**: HTML, CSS, JavaScript, ReactNative/React
+- **Back-End Development**: Node.js, Php (in progress)
 - **Tools**: Git, GitHub, VS Code
 
 ## Contact 📬
