@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Anja,  a Computer Science student at the Facul
 
 ## About Me 🌟
 
-- **UX/UI Designer** 🎨: I create user-centric designs with a focus on usability and aesthetics using tools like Figma.
+
 - **Student** 📚: I’m currently studying Computer Science, continuously learning and applying new technologies.
 
 ## Projects 🚀
@@ -16,9 +16,10 @@ Welcome to my GitHub profile! I'm Anja,  a Computer Science student at the Facul
 
 ## Skills 💡
 
-- **Design**: Figma, Adobe Ilustrator, Adobe Photoshop
+- **Design**: Figma, Adobe Ilustrator
 - **Front-End Development**: HTML, CSS, JavaScript, ReactNative/React
 - **Back-End Development**: Node.js, Php (in progress)
+- **Coding**: Python
 - **Tools**: Git, GitHub, VS Code
 
 ## Contact 📬
