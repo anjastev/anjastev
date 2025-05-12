@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm Anja,  a Computer Science student at the Facul
 
 
 - **Student** 📚: I’m currently studying Computer Science, continuously learning and applying new technologies.
+- **Intern**  💼: Gaining hands-on experience through internships in DevOps and Artificial Intelligence, where I’m expanding my skills in traing models, writing scripts in Python.
 
 ## Projects 🚀
 
