@@ -1,33 +1,41 @@
 # Anja's Portfolio 👋
 
-Welcome to my GitHub profile! I'm Anja, a Computer Science student at the Faculty of Computer Science & Engineering in Skopje. Here you'll find a collection of my projects, from innovative UX/UI designs to functional web applications and engineering-focused solutions.
+Welcome to my GitHub profile! I'm Anja, a Computer Science student and aspiring AIOps engineer. Here you'll find a collection of my projects, ranging from AI-powered applications to practical web solutions and automation tools.
 
 ## About Me 🌟
 
-- **Student** 📚: I’m currently studying Computer Science, continuously learning and applying new technologies.
-- **DevOps & AI Intern** 💼: Gaining hands-on experience in DevOps and Artificial Intelligence, working with Python scripts, automation, API integrations, and basic model training and evaluation.
-- **DevOps & AIOps Engineer Intern @ MKT** 🚀: Currently working on real-world DevOps and AIOps workflows, assisting with system automation, AI-powered processes, and monitoring concepts.
+- **Student** 📚: Currently pursuing a degree in Computer Science at the Faculty of Computer Science & Engineering in Skopje.
+- **DevOps & AIOps Engineer Intern** 💼: Hands-on experience in Python automation scripts, monitoring workflows, API integrations, and basic ML model training and evaluation.
+- **AIOps Engineer @ MKT** 🚀: Working on real-world AIOps processes, including system automation, AI-powered bots/chatbots, event monitoring and anomaly detection.
 
 ## Projects 🚀
 
-- **Travel Planner – AI Travel Assistant**: https://webdesignproject.vercel.app/
-- **Planner App – Obvrski365**: https://my-planner-app-eight.vercel.app/
-- **Hotel Reservation App – CheckInn**: https://hotel-reservations-pink.vercel.app/
+- **Travel Planner – AI Travel Assistant**  
+  An intelligent web assistant that helps plan trips with personalized recommendations.  
+  🔗 [View Project](https://webdesignproject.vercel.app/)
+
+- **Planner App – Obvrski365**  
+  A productivity app for task management and scheduling, built with React and Node.js.  
+  🔗 [View Project](https://my-planner-app-eight.vercel.app/)
+
+- **Hotel Reservation App – CheckInn**  
+  A hotel booking application with a clean UX/UI, built using React and Node.js.  
+  🔗 [View Project](https://hotel-reservations-pink.vercel.app/)
 
 ## Skills 💡
 
-- **Programming & Scripting**: Python 
-- **DevOps / AI**: Automation with Python, API integration & testing, basic model training & evaluation, CI/CD concepts, monitoring fundamentals  
-- **Front-End Development**: React/React Native  
-- **Back-End Development**: Node.js, PHP (in progress)  
-- **Design**: Figma
-- **Tools**: Git, GitHub, VS Code  
+- **Programming & Scripting**: Python, Bash, PowerShell
+- **AIOps & Automation**: Python automation scripts, API integrations, monitoring workflows, ML-based anomaly detection
+- **Front-End Development**: React, React Native, Figma (UI/UX Design)
+- **Back-End Development**: Node.js, Express.js
+- **DevOps Tools**: Git, GitHub, Docker
+- **Databases & Data Handling**: SQL, Pandas, NumPy
 
 ## Contact 📬
 
-Feel free to reach out if you want to collaborate or just chat about technology, DevOps, or AI!
+I’m always open to collaboration or tech discussions!  
 
-- **LinkedIn**: https://www.linkedin.com/in/anja-stevkovska-590b61292/
-- **Email**: stevkovskaanja@gmail.com
+- **LinkedIn**: [Anja Stevkovska](https://www.linkedin.com/in/anja-stevkovska-590b61292/)  
+- **Email**: stevkovskaanja@gmail.com  
 
-Thank you for visiting my profile! 🙌
+Thanks for visiting my profile! 🙌
