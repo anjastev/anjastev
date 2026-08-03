@@ -2,7 +2,7 @@
 
 # Hi there, I'm Anja Stevkovska 👋
 
-### Junior AIOps Engineer • BSc in Information Sciences and Computer Engineering  • Junior AIOps Engineer
+### Junior AIOps Engineer • BSc in Information Sciences and Computer Engineering  
 
 <p>
 I'm passionate about Artificial Intelligence, AIOps, DevOps, automation and building modern web applications that solve real-world problems.
