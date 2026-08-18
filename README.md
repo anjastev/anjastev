@@ -66,7 +66,7 @@ Combines browser media APIs, canvas rendering, WebRTC and real-time generative v
 
 `React` `TypeScript` `MediaPipe` `WebRTC` `Node.js` `Express`
 
-🔗 [**Live Demo**](https://aiportal-git-master-anjastevs-projects.vercel.app/)
+🔗 **Live Demo:** https://aiportal-git-master-anjastevs-projects.vercel.app/
 
 ---
 
@@ -104,7 +104,7 @@ Includes automatic data refreshes and a clean interface for tracking key infrast
 
 `React` `Python` `Docker` `Monitoring`
 
-🔗 **Live Demo**
+🔗 **Live Demo:** https://cloud-monitoring-dashboard-pi.vercel.app/
 
 ---
 
