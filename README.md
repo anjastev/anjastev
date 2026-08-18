@@ -56,61 +56,109 @@ I'm passionate about Artificial Intelligence, AIOps, DevOps, automation and buil
 
 # 🚀 Featured Projects
 
-## ✈️ AI Travel Planner
+## 🌀 AI Finger Portal
 
-An AI-powered travel planning assistant that generates personalized travel recommendations.
+Real-time AI and computer vision experience where hand tracking creates a dynamic portal directly inside the webcam feed.
+
+Combines browser media APIs, canvas rendering, WebRTC and real-time generative video concepts.
 
 **Tech**
-`React` `Node.js` `OpenAI API`
 
-🔗 https://webdesignproject.vercel.app/
+`React` `TypeScript` `MediaPipe` `WebRTC` `Node.js` `Express`
+
+🔗 [**Live Demo**](https://aiportal-git-master-anjastevs-projects.vercel.app/)
 
 ---
 
-## 📅 Obvrski365
+## 📄 Resume Matcher AI
 
-Task management application for planning daily activities and improving productivity.
+AI-powered resume matching system that analyzes resumes against job descriptions using semantic similarity.
 
-**Tech**
-`React` `Node.js`
-
-🔗 https://my-planner-app-eight.vercel.app/
-
----
-
-## 🏨 CheckInn
-
-Hotel reservation platform focused on responsive design and user-friendly booking experience.
-
-**Tech**
-`React` `Node.js`
-
-🔗 https://hotel-reservations-pink.vercel.app/
-
----
-
-## 🤖 MobiBot
-
-AI-powered chatbot developed for customer support and automation.
+Includes PDF parsing, skill-gap analysis and AI-powered recommendations.
 
 **Tech**
 
-`Python`
-`Flask`
-`OpenAI`
-`NLP`
+`Python` `FastAPI` `React` `FAISS` `MLflow` `Docker`
 
 ---
 
 ## 🧠 AirDraw
 
-Interactive drawing system using computer vision and hand tracking.
+Interactive gesture-controlled drawing application that allows users to draw in the air using hand movements captured through a webcam.
+
+Uses real-time hand-landmark detection and computer vision to transform gestures into digital drawings.
 
 **Tech**
 
-`Python`
-`OpenCV`
-`MediaPipe`
+`Python` `OpenCV` `MediaPipe` `Computer Vision`
+
+---
+
+## 📊 Cloud Monitoring Dashboard
+
+Responsive monitoring dashboard designed for visualizing infrastructure metrics, system performance and cloud-monitoring data.
+
+Includes automatic data refreshes and a clean interface for tracking key infrastructure indicators.
+
+**Tech**
+
+`React` `Python` `Docker` `Monitoring`
+
+🔗 **Live Demo**
+
+---
+
+## ✈️ AI Travel Planner
+
+AI-powered travel planning assistant that generates personalized travel recommendations based on user preferences.
+
+Designed to simplify trip planning through an intuitive web interface and AI-generated suggestions.
+
+**Tech**
+
+`React` `Node.js` `OpenAI API`
+
+🔗 **Live Demo:** https://webdesignproject.vercel.app/
+
+---
+
+## 📅 Obvrski365
+
+Task management application for organizing daily activities, planning responsibilities and improving productivity.
+
+Provides a simple and intuitive interface for managing everyday tasks.
+
+**Tech**
+
+`React` `Node.js`
+
+🔗 **Live Demo:** https://my-planner-app-eight.vercel.app/
+
+---
+
+## 🏨 CheckInn
+
+Hotel reservation platform focused on responsive design and a simple, user-friendly booking experience.
+
+Built to provide an intuitive interface for browsing and managing hotel reservations.
+
+**Tech**
+
+`React` `Node.js`
+
+🔗 **Live Demo:** https://hotel-reservations-pink.vercel.app/
+
+---
+
+## 🤖 MobiBot
+
+AI-powered chatbot developed for customer support, conversational automation and natural language interactions.
+
+Combines NLP capabilities with a lightweight backend for handling AI-powered conversations.
+
+**Tech**
+
+`Python` `Flask` `OpenAI` `NLP`
 
 ---
 
@@ -131,10 +179,10 @@ Interactive drawing system using computer vision and hand tracking.
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-
 ---
 
 ### Back-End
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
@@ -150,8 +198,6 @@ Interactive drawing system using computer vision and hand tracking.
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
 
 ---
-
-
 
 ### UI / UX
 
