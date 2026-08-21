@@ -68,7 +68,6 @@ A production-oriented signal intelligence layer evaluates each prediction using 
 
 🔗 **Live Demo:** https://analtiko-one.vercel.app/
 
-🔗 **GitHub:** https://github.com/anjastev/analtiko
 
 ---
 
