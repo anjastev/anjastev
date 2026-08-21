@@ -56,6 +56,22 @@ I'm passionate about Artificial Intelligence, AIOps, DevOps, automation and buil
 
 # 🚀 Featured Projects
 
+## ⚽ Analitiko – AI Football Intelligence & Ticket Optimization Platform
+
+Full-stack football intelligence and analytics platform designed to analyze matches, betting markets and historical performance data and generate data-driven football predictions and optimized betting combinations. The platform combines historical match data, team form, Elo-based power ratings, bookmaker odds, market consensus and machine-learning signals to evaluate upcoming matches and identify higher-quality opportunities.
+
+A production-oriented signal intelligence layer evaluates each prediction using probability calibration, data quality, uncertainty, market agreement and league reliability before allowing it to be used by the ticket optimization engine. The platform also includes an AI-style Ticket Builder where users can request custom combinations based on their preferred strategy, number of selections, target odds and other criteria.
+
+**Tech**
+
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `SQLite` `Scikit-Learn` `Pandas` `React` `TypeScript` `Vite` `Axios` `REST API` `Machine Learning` 
+
+🔗 **Live Demo:** https://analtiko-one.vercel.app/
+
+🔗 **GitHub:** https://github.com/anjastev/analtiko
+
+---
+
 ## 🌀 AI Finger Portal
 
 Real-time AI and computer vision experience where hand tracking creates a dynamic portal directly inside the webcam feed.
